@@ -9,6 +9,7 @@ This project is a web-based application that combines a stopwatch functionality 
 - Voice command support for controlling the stopwatch
 - Text-to-speech feedback for voice commands
 - Siri-inspired visual design with a pulsating orb
+  ![alt text](<Screenshot 2024-11-13 170851.png>)
 
 ## Files in the Project
 
